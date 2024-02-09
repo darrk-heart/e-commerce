@@ -2,6 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
+  /* height: 100%; */
 }
 :root {
   --text-color: #555;
@@ -9,12 +11,19 @@
 }
 .container {
   background-color: #f5c0d8;
+  background: radial-gradient(
+    circle at center,
+    #ffffff 0%,
+    #f5c0d8 50%,
+    #f5c0d8 100%
+  );
   align-items: center;
   justify-content: center;
+  height: 100vh;
 }
 .logo {
   height: 120px;
-  width: 110px;
+  width: 120px;
 }
 .top {
   width: 85%;
@@ -45,4 +54,48 @@ ul {
   display: flex;
   font-family: "Poppins", sans-serif;
   color: var(--text-color);
+}
+.container2 {
+  background-color: white;
+  height: 100vh;
+}
+.content1 {
+  display: flex;
+}
+.content1 img {
+  margin-top: 70px;
+  width: 50%;
+  border-radius: 50%;
+  height: 500px;
+  transform: rotate(-3deg);
+  box-shadow: -10px 0 20px rgba(0, 0, 0, 0.5);
+  border: 3px solid white;
+}
+.coolest {
+  font-family: Arial;
+  font-weight: 800;
+  font-size: 40px;
+  margin-left: 30px;
+  line-height: 2;
+}
+.unlock {
+  margin-top: 60px;
+  font-family: Arial;
+  font-weight: 800;
+  font-size: 56px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+.content1-text p {
+  margin-left: 30px;
+  margin-top: 50px;
+  color: var(--text-color);
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+}
+.explore{
+    background-color: #e570a4;
+    margin-top: 70px;
+    margin-left: 30px;
 }
