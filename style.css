@@ -47,6 +47,7 @@ ul {
 .header-item {
   display: flex;
 }
+
 .cart {
   width: 30px;
   height: 30px;
@@ -88,9 +89,13 @@ ul {
   font-family: Arial;
   font-weight: 800;
   font-size: 60px;
-  margin-left: 30px;
+  margin-left: 20px;
   margin-bottom: 20px;
   font-family: cursive;
+  /* white-space: nowrap;
+  overflow: hidden;
+  width: 0;
+  animation: typing 3s steps(40, end); */
 }
 .content1-text p {
   margin-left: 30px;
@@ -301,4 +306,31 @@ ul {
 }
 .follow p {
   padding: 10px;
+}
+
+/* hover  and animation properties */
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.header-item li:hover {
+  cursor: pointer;
+}
+.cart:hover {
+  cursor: pointer;
+}
+.explore:hover {
+  cursor: pointer;
+}
+.explore1:hover {
+  cursor: pointer;
+}
+.logo {
+  cursor: pointer;
 }
