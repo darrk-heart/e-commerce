@@ -307,6 +307,10 @@ ul {
 .follow p {
   padding: 10px;
 }
+a {
+   text-decoration: none;
+   color: var(--text-color);
+}
 
 /* hover  and animation properties */
 
