@@ -334,3 +334,26 @@ ul {
 .logo {
   cursor: pointer;
 }
+
+/* products page  */
+
+.product-container {
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.product-heading {
+  position: absolute;
+  margin-top: 170px;
+  color: var(--text-color);
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.product-heading div {
+  background-color: var(--background-main);
+  padding: 5px;
+  width: 120px;
+  margin-left: 10px;
+  border-radius: 50px;
+  margin-top: 5px;
+}
