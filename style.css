@@ -302,7 +302,6 @@ ul {
 }
 .follow h4 {
   font-size: larger;
-
   margin-top: -20px;
 }
 .follow p {
@@ -359,8 +358,8 @@ a {
 .product-heading div {
   background-color: var(--background-main);
   padding: 5px;
-  width: 120px;
-  margin-left: 10px;
+  width: 100px;
+  margin-left: 19px;
   border-radius: 50px;
   margin-top: 5px;
 }
@@ -380,5 +379,15 @@ a {
   margin-top: 1320px;
 }
 .ewie {
-  margin-top: 1880px;
+  margin-top: 1870px;
+}
+.product-footer {
+  margin-top: 2430px;
+  position: absolute;
+  padding-right: 260px;
+  margin-bottom: 0;
+}
+.product-foot {
+  margin: 0;
+  width: 1200px;
 }
