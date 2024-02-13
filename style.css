@@ -238,8 +238,9 @@ ul {
   height: 100vh;
 }
 .comments {
-  padding-top: 130px;
+  padding-top: 115px;
   display: flex;
+  padding-bottom: 15px;
 }
 .remarks img {
   width: 60px;
