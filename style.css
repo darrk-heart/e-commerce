@@ -330,6 +330,9 @@ a {
 .cart:hover {
   cursor: pointer;
 }
+.explor:hover{
+  color: var(--background-main);
+}
 .explore:hover {
   cursor: pointer;
   background-color: white;
