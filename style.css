@@ -515,7 +515,7 @@ input[type="radio"] {
 #signup:checked ~ label.signup {
   color: #fff;
   cursor: default;
-  user-select: none;
+  /* user-select: none; */
 }
 #signup:checked ~ label.login {
   color: #000;
@@ -525,7 +525,7 @@ input[type="radio"] {
 }
 #login:checked ~ label.login {
   cursor: default;
-  user-select: none;
+  /* user-select: none; */
 }
 .wrapper .form-container {
   width: 100%;
