@@ -22,7 +22,7 @@ It's been really helpful in expanding my css skills.
 
 ## Live Demo
 
-i will host it on netlifly, link will be up soon.
+You can view this project on https://darrk-heart.github.io/e-commerce/
 
 ## License
 
