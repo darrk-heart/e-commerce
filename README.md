@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This is a basic structure for an ecommerce application for the sales of tech gadgets
+This is a basic structure for an ecommerce application for the sales of tech gadgets  
 This project is solemnly based on html css and js.
 
 ## My Personal Experience about this project
