@@ -24,10 +24,10 @@ It's been really helpful in expanding my css skills.
 
 i will host it on netlifly, link will be up soon.
 
+## License
+
+This project is licensed under [MIT LICENSE](LICENSE).
+
 ## Contributions
 
 Contributions are welcome! If you have any improvements or new features please open up a pull request or an issue
-
-## License 
-
-This project is licensed under [MIT LICENSE](LICENSE).
