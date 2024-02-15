@@ -350,6 +350,9 @@ a {
   transform: scale(1.05);
   cursor: pointer;
 }
+.fa-star:hover {
+  cursor: pointer;
+}
 
 /* products page  */
 
