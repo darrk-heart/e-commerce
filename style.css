@@ -111,7 +111,7 @@ ul {
   font-family: "Poppins", sans-serif;
   border-radius: 40px;
 }
-.explor{
+.explor {
   color: white;
 }
 
@@ -330,7 +330,7 @@ a {
 .cart:hover {
   cursor: pointer;
 }
-.explor:hover{
+.explor:hover {
   color: var(--background-main);
 }
 .explore:hover {
@@ -629,6 +629,5 @@ form .btn input[type="submit"] {
   padding-right: 260px;
   margin-bottom: 0;
 }
-
 
 /* hopefully i get done with it soon */
