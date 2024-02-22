@@ -365,6 +365,7 @@ a {
   position: absolute;
   background-color: white;
   padding-left: 0;
+  padding-right: 0;
   
 }
 .product-container {
@@ -452,6 +453,7 @@ a {
 .accounts {
   position: absolute;
   padding-left: 0;
+  padding-right: 0;
 }
 .accountss {
   z-index: 100;
